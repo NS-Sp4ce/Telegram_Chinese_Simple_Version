@@ -1214,7 +1214,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_about_version" = "版本 {version}";
 "lng_about_text_1" = "官方免费通讯程序，\n基于为安全和速度而开发的[a href=\"https://core.telegram.org/api\"]Telegram API[/a] 所编写。" ;
 "lng_about_text_2" = "本程序根据[a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] 版本三授权，\n原始码可于[a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a] 取得。";
-"lng_about_text_3" = "请前往{faq_open}常见问题{faq_close}以取得更多资讯。\n简中汉化由Sp4ce提供[a href=\"\"]在Github反馈[/a]";
+"lng_about_text_3" = "请前往{faq_open}常见问题{faq_close}以取得更多资讯。\n简中汉化由Sp4ce提供[a href=\"https://github.com/NS-Sp4ce/Telegram_Chinese_Simple_Version\"]在Github反馈[/a]";
 "lng_about_done" = "完成";
 
 "lng_search_no_results" = "找不到信息";
